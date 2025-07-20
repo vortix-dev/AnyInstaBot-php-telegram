@@ -72,6 +72,7 @@
 Create a `.env` file in the project root with:
 
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+
 RAPIDAPI_KEY=your_rapidapi_key
 
 ---
