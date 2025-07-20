@@ -82,8 +82,8 @@ RAPIDAPI_KEY=your_rapidapi_key
 2. Run:
    ```bash
    composer install
-3.Set your Telegram webhook:
+3. Set your Telegram webhook:
    ```bash
    https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook?url=https://your-domain.com/
    ```
-4.You're done! 🎉
+4. You're done! 🎉
